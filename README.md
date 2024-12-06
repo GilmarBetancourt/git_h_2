@@ -1,2 +1,2 @@
 # git_h_2
-H2 - Git hack individual
+H2 - Enviar un directorio vacio al repositorio remoto.
